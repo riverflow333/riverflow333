@@ -8,4 +8,4 @@
 riverflow333/riverflow333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I am interested in refreshing my knowledge on C++ in a Linux/AIX world.
+I am a Senior Research & Data Scientist
